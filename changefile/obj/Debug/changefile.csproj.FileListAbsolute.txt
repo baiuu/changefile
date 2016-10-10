@@ -1,0 +1,10 @@
+Z:\11\change\changefile\changefile\bin\Debug\changefile.exe
+Z:\11\change\changefile\changefile\bin\Debug\changefile.pdb
+Z:\11\change\changefile\changefile\obj\Debug\changefile.csprojResolveAssemblyReference.cache
+Z:\11\change\changefile\changefile\obj\Debug\changefile.Form1.resources
+Z:\11\change\changefile\changefile\obj\Debug\changefile.Properties.Resources.resources
+Z:\11\change\changefile\changefile\obj\Debug\changefile.csproj.GenerateResource.Cache
+Z:\11\change\changefile\changefile\obj\Debug\changefile.exe
+Z:\11\change\changefile\changefile\obj\Debug\changefile.pdb
+Z:\11\change\changefile\changefile\obj\Debug\changefile.Form2.resources
+Z:\11\change\changefile\changefile\obj\Debug\changefile.Form3.resources
